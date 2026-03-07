@@ -1,6 +1,7 @@
 # AGENTS.md
 
 This repository is the conceptual knowledge base for the NE3ULA ecosystem.
+
 NE3ULA is a philosophical, creative, and technological ecosystem that combines narrative world-building, personal transformation frameworks, and interactive systems.
 ## Purpose
 
