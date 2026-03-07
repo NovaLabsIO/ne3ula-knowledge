@@ -1,66 +1,62 @@
-# AGENTS.md
+AGENTS.md
 
 This repository is the conceptual knowledge base for the NE3ULA ecosystem.
 
 NE3ULA is a philosophical, creative, and technological ecosystem that combines narrative world-building, personal transformation frameworks, and interactive systems.
-## Purpose
 
-Use this repository to understand:
+Purpose
+
+Use this repository to understand the conceptual foundations of the NE3ULA ecosystem.
+
+This includes:
+
 - the philosophical foundation of NE3ULA
 - the preserved Notion archive
 - the structured working documentation
 - the conceptual basis for AXZIO, NE3ULAVERSE, and the public site
 
-## Primary Role
+Primary Role
 
 This repo is the source for:
+
 - philosophy
 - frameworks
 - conceptual systems
 - documentation derived from the original Notion project
 
-## Key Areas
+Key Areas
 
-### NOTION_ARCHIVE
+NOTION_ARCHIVE
+
 Raw historical export of the Notion workspace.
 Treat as preserved source material.
 
-### WORKING_DOCS
+WORKING_DOCS
+
 Structured editable documentation derived from the archive.
 
-Expected domains include:
-- philosophy
-- identity-stack
-- alchemist-pyramid
-- axzio
-- ne3ulaverse
-- website
-- assets
+Rules
 
-## Rules
+- Preserve NOTION_ARCHIVE as the historical source.
+- Use WORKING_DOCS for refinement, synthesis, and restructuring.
+- Do not place production website code here.
+- Do not place application implementation code here.
+- Do not place game implementation code here.
+- Update this repo when conceptual foundations change.
 
-1. Preserve NOTION_ARCHIVE as the historical source.
-2. Use WORKING_DOCS for refinement, synthesis, and restructuring.
-3. Do not place production website code here.
-4. Do not place application implementation code here.
-5. Do not place game implementation code here.
-6. Update this repo when conceptual foundations change.
-
-## Relationship to Other Repos
+Relationship to Other Repos
 
 - ne3ula-system defines ecosystem architecture.
 - ne3ula-site implements the public web experience.
 - axzio implements the application layer.
 - ne3ulaverse implements the progression/game layer.
 
-## Canonical Use
+Canonical Use
 
 Start here when you need conceptual understanding.
 Start in ne3ula-system when you need cross-repo architecture.
 
----
-
-# System Overview
+System Overview
 
 NE3ULA is structured as a layered system.
 
@@ -70,14 +66,11 @@ INTERFACE → user navigation
 DOMAINS → creative expression  
 SYSTEMS → participation infrastructure  
 OPERATIONS → real-world execution  
-PUBLIC SURFACES → external presentation  
+PUBLIC SURFACES → external presentation
 
----
+Directory Guide
 
-# Directory Guide
-
-## WORLD
-
+WORLD  
 WORKING_DOCS/world/
 
 Contains the narrative and conceptual universe.
@@ -94,18 +87,14 @@ Includes:
 
 Purpose: define the meaning of the world.
 
----
-
-## ENGINE
-
+ENGINE  
 WORKING_DOCS/engine/E3/
 
 The transformation engine of NE3ULA.
 
 Two layers exist:
 
-### human-engine
-
+human-engine  
 Human development frameworks.
 
 Includes:
@@ -114,8 +103,7 @@ Includes:
 - alchemist-pyramid
 - decision-engine
 
-### system-engine
-
+system-engine  
 Technical systems supporting transformation.
 
 Includes:
@@ -123,10 +111,7 @@ Includes:
 - ai.d
 - instrumentation
 
----
-
-## INTERFACE
-
+INTERFACE  
 WORKING_DOCS/interface/axzio/
 
 AXZIO is the user interface layer.
@@ -139,10 +124,7 @@ Includes:
 - view states
 - navigation models
 
----
-
-## DOMAINS
-
+DOMAINS  
 WORKING_DOCS/domains/
 
 Creative expression spaces.
@@ -154,10 +136,7 @@ Examples:
 
 Domains produce artifacts, experiences, and culture.
 
----
-
-## SYSTEMS
-
+SYSTEMS  
 WORKING_DOCS/systems/
 
 Infrastructure enabling participation.
@@ -167,10 +146,7 @@ Examples:
 - forge
 - artifact-system
 
----
-
-## OPERATIONS
-
+OPERATIONS  
 WORKING_DOCS/operations/
 
 Real-world organizational layer.
@@ -181,10 +157,7 @@ Examples:
 - business planning
 - partnerships
 
----
-
-## PUBLIC SURFACES
-
+PUBLIC SURFACES  
 WORKING_DOCS/public-surfaces/
 
 External access points to the system.
@@ -196,9 +169,7 @@ Examples:
 
 These surfaces introduce users to the world.
 
----
-
-# Archive
+Archive
 
 NOTION_ARCHIVE/
 
@@ -210,11 +181,7 @@ Rules:
 - refine before migrating
 - follow MIGRATION_RULES.md
 
----
-
-# Conceptual Flow
-
-This represents the typical progression of a user entering and engaging with the NE3ULA ecosystem.
+Conceptual Flow
 
 CALL / SIGNAL  
 → INITIATION  
@@ -225,9 +192,17 @@ CALL / SIGNAL
 → SYSTEMS  
 → LEGEND
 
----
+Agent Workflow
 
-# References
+When working in this repository:
+
+1. Start by reading WORKING_DOCS/NE3ULA_ONTOLOGY.md and WORKING_DOCS/NE3ULA_KNOWLEDGE_MAP.md.
+2. Consult WORKING_DOCS/SYSTEM_INDEX.md to locate relevant documentation.
+3. Treat NOTION_ARCHIVE as historical reference only.
+4. Place refined concepts inside WORKING_DOCS according to the ontology structure.
+5. Avoid duplicating concepts across domains unless explicitly required.
+
+References
 
 Agents should consult the following documents for deeper context:
 
@@ -235,4 +210,3 @@ Agents should consult the following documents for deeper context:
 - WORKING_DOCS/NE3ULA_KNOWLEDGE_MAP.md
 - WORKING_DOCS/MIGRATION_RULES.md
 - WORKING_DOCS/SYSTEM_INDEX.md
-
