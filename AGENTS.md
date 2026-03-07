@@ -214,6 +214,8 @@ Rules:
 
 # Conceptual Flow
 
+This represents the typical progression of a user entering and engaging with the NE3ULA ecosystem.
+
 CALL / SIGNAL  
 → INITIATION  
 → WORLD  
