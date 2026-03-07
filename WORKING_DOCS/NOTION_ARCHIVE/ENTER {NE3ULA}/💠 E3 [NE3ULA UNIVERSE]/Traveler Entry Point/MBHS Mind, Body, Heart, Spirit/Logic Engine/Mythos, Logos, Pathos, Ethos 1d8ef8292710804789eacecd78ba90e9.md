@@ -1,1 +1,0 @@
-# Mythos, Logos, Pathos, Ethos
