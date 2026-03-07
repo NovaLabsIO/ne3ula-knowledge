@@ -1,0 +1,48 @@
+{
+  "name": "NebulaverseSymbolicLayout",
+  "version": 1,
+  "pages": [
+    {
+      "name": "Symbolic Input",
+      "controls": [
+        {
+          "type": "xy",
+          "name": "PolarityXY",
+          "x": 0.1,
+          "y": 0.1,
+          "w": 0.3,
+          "h": 0.3,
+          "osc": "/polarity"
+        },
+        {
+          "type": "menu",
+          "name": "PathSelector",
+          "x": 0.5,
+          "y": 0.1,
+          "w": 0.3,
+          "h": 0.1,
+          "osc": "/path",
+          "items": [
+            "Seeker",
+            "Warrior",
+            "Dreamer"
+          ]
+        },
+        {
+          "type": "menu",
+          "name": "IdentitySelector",
+          "x": 0.5,
+          "y": 0.25,
+          "w": 0.3,
+          "h": 0.1,
+          "osc": "/identity",
+          "items": [
+            "Dreamer",
+            "Warrior",
+            "Seeker"
+          ]
+        }
+      ]
+    }
+  ]
+}

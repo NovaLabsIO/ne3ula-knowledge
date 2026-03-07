@@ -1,0 +1,7 @@
+# Digital wallpapers for focused work mindset
+
+Content created using ChatGPT. Report if unsafe.
+
+ChatGPT
+
+[Digital wallpapers for focused work mindset](https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNjk1NmVhODRhOTU0ODE5MTk1NjA2ZjBhYTg1YWVlN2I6ZmlsZV8wMDAwMDAwMGIxNjA3MWY1Yjk1YzMyZTc5ZDQ5ZDg2NyIsInRzIjoiMjA0NTQiLCJwIjoicHlpIiwiY2lkIjoiMSIsInNpZyI6IjNhMTM0MDJmYTRiZWVlYmNjMTliNjc2MjJmOWQ0MmQxZjBhMTRlZjVlNTc0NDhiODAzY2FjYzA1ZWRjZWYzMzciLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcyI6bnVsbCwiY3AiOm51bGwsIm1hIjpudWxsfQ==)
