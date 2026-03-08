@@ -59,7 +59,7 @@ creative expression, and future technical forms. Its deeper claim is that human
 becoming can be held in a system that respects both mystery and sovereignty.
 
 This vision should be interpreted canonically as a cosmological ambition for the
-world layer, not as a literal product promise in every case.
+WORLD layer, not as a literal product promise in every case.
 
 Its recurring themes are:
 

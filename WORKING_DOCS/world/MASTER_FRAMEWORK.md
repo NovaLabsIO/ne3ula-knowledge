@@ -1,6 +1,6 @@
 # NE3ULA Master Framework
 
-NE3ULA is the world layer of a broader system for mythic self-authorship.
+NE3ULA is the WORLD layer of a broader system for mythic self-authorship.
 It is not merely a brand, app, or story container. It is the meaning architecture
 that gives coherence to transformation, interface, expression, participation,
 and real-world execution.
@@ -54,9 +54,9 @@ conscious, more authored, and more aligned with their own path.
 
 ### WORLD
 
-NE3ULA is first a world.
+NE3ULA is first a WORLD.
 
-The world layer contains:
+The WORLD layer contains:
 
 - philosophy
 - myth
@@ -66,11 +66,11 @@ The world layer contains:
 - symbolic language
 
 This layer provides the meaning context that makes all later mechanics coherent.
-Without the world, the rest becomes feature design without soul.
+Without the WORLD, the rest becomes feature design without soul.
 
 ### ENGINE
 
-The engine is the transformation logic represented primarily by E3.
+The ENGINE is the transformation logic represented primarily by E3.
 
 Within the VISION materials, this appears through:
 
@@ -80,11 +80,11 @@ Within the VISION materials, this appears through:
 - AI.d as an adaptive witness and mirror
 - modular path design
 
-The engine translates mythic meaning into repeatable transformation structures.
+The ENGINE translates mythic meaning into repeatable transformation structures.
 
 ### INTERFACE
 
-The interface layer, represented by AXZIO, is how a participant navigates the
+The INTERFACE layer, represented by AXZIO, is how a participant navigates the
 system.
 
 Its role is not merely utility.
@@ -93,7 +93,7 @@ people move clearly through paths, reflections, tools, and states of becoming.
 
 ### DOMAINS
 
-Domains are the expressive surfaces where the world takes cultural form.
+DOMAINS are the expressive surfaces where the WORLD takes cultural form.
 
 Examples include:
 
@@ -102,12 +102,12 @@ Examples include:
 - symbolic artifacts
 - immersive performances
 
-Domains are not ornamental.
+DOMAINS are not ornamental.
 They are how the myth travels and how the signal reaches people.
 
 ### SYSTEMS
 
-Systems are the participation infrastructure that allow people to co-create,
+SYSTEMS are the participation infrastructure that allow people to co-create,
 contribute, and deepen their relationship with the ecosystem.
 
 These include spaces such as the Forge, artifact systems, and participatory
@@ -222,12 +222,12 @@ but it must remain a space for personal recognition rather than external worship
 
 In canonical terms:
 
-- NE3ULA is the world of meaning
-- E3 is the engine of transformation
-- AXZIO is the interface of navigation
-- domains express the world materially and culturally
-- systems enable participation
-- operations sustain execution
+- NE3ULA is the WORLD of meaning
+- E3 is the ENGINE of transformation
+- AXZIO is the INTERFACE of navigation
+- DOMAINS express the WORLD materially and culturally
+- SYSTEMS enable participation
+- OPERATIONS sustain execution
 - legend is the lived outcome
 
 Together, these form a coherent architecture for turning signal into story,
