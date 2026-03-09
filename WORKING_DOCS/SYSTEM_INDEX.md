@@ -38,3 +38,24 @@ Website and social as public-facing surfaces.
 Use this structure for new canonical synthesis.
 
 Do not move archive material directly without intentional review.
+
+## Path Guardian Pantheon
+
+Location:
+WORKING_DOCS/systems/path-guardian-pantheon/
+
+Defines the symbolic guide layer that interfaces users with Paths.
+
+The Pantheon provides narrative and psychological framing for the NE3ULA system by embodying core operational domains as Guides.
+
+Core Guardians:
+- Architect {..}
+- Observer [○]
+- Navigator /⇄\
+- Alchemist (±)
+- Catalyst (+/-)
+
+Related Systems:
+- Interface -> WORKING_DOCS/interface/guardian-systems/
+- Systems -> Alchemist Pyramid / Path architecture
+- World -> symbolic language and mythic framing

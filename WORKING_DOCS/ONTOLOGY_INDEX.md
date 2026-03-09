@@ -74,6 +74,10 @@ Primary links:
 - `WORKING_DOCS/interface/axzio/USER_JOURNEY.md`
 - `WORKING_DOCS/interface/axzio/VIEW_STATES.md`
 
+Sub-layers:
+- `guardian-systems/`
+  Defines avatar, morph, and polarity interaction models for Guardian-based user experience.
+
 ---
 
 ## EXPRESSION
@@ -97,6 +101,10 @@ Co-creation and involvement in the living system.
 Primary links:
 - `WORKING_DOCS/systems/README.md`
 - `WORKING_DOCS/systems/forge/README.md`
+
+Sub-layers:
+- `path-guardian-pantheon/`
+  Defines the symbolic guide architecture used to interface users with Paths through Guardians, narrative framing, and symbolic avatars.
 
 ---
 
