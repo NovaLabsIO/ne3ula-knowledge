@@ -1,92 +1,102 @@
 # Identity Stack
 
-The Identity Stack is the authored identity framework within E3.
+The Identity Stack is the canonical identity framework within the E3 human
+engine.
 
-It is designed to help a participant move from inherited identity and reactive
-behavior toward chosen principles, aligned rhythms, and adaptive reflection.
+It defines how a participant's identity is structured, how that structure moves
+over time, and how the system reads change without collapsing the person into a
+fixed type.
 
-## Core Definition
+## Why It Lives in `human-engine`
 
-The archive consistently describes the Identity Stack as a three-layer system:
+The Identity Stack belongs in
+`WORKING_DOCS/engine/E3/human-engine/` because it describes the participant,
+not the interface and not the software implementation.
 
-1. Identity Core
-2. Identity Engine
-3. AI.d
+Its role is to help a participant:
 
-These layers should be understood together, but not collapsed into one another.
+- distinguish authored identity from inherited patterning
+- define the stable layers the system is orienting around
+- interpret drift, friction, and coherence as developmental signals
+- support return, refinement, and longer-term integration
 
-## 1. Identity Core
-
-Identity Core is the authored center.
-
-It holds the participant's chosen protocols for how they want to live, relate,
-create, and express themselves.
-
-The archive's strongest canonical synthesis is a four-part protocol set:
-
-- Get Your Money Right
-- Rules of Engagement
-- Build What You Wish the World Had
-- Be You
-
-These are not labels or personality types.
-They are chosen commitments that anchor identity in practical life.
-
-## 2. Identity Engine
-
-Identity Engine is the integration layer.
-
-It translates Identity Core into lived rhythms and observable patterns.
-Its recurring functions in the archive are:
-
-- friction mapping
-- mode recognition
-- ritual design
-- signal drift alerts
-- integration prompts
-
-The Identity Engine exists to show where the participant's lived behavior is
-aligned with their chosen identity and where it is drifting.
-
-## 3. AI.d
-
-AI.d is the adaptive mirror of the Identity Stack.
-
-It is not the identity itself.
-It is a reflective layer that:
-
-- notices patterns
-- tracks rhythms over time
-- surfaces prompts
-- maps drift
-- supports return and recalibration
-
-AI.d belongs structurally to the system engine, but functionally it serves the
-Identity Stack and must remain subordinate to user authorship.
-
-## Canonical Principles
-
-The Identity Stack is governed by several stable principles in the archive:
-
-- identity should be authored, not passively inherited
-- behavior should be interpreted as signal, not moral score
-- drift is expected and can be tracked without shame
-- rituals stabilize identity better than abstract intention alone
-- AI reflection should amplify sovereignty rather than replace judgment
+WORLD provides meaning and symbolic context.
+The Identity Stack provides the participant-centered structure that the human
+engine uses to interpret identity.
 
 ## Relationship to Other E3 Systems
 
-- The Alchemist Pyramid provides structured transformation paths
-- The Identity Stack provides the participant's authored center and operating
-  logic
-- The Decision Engine provides practical action heuristics
-- AI.d and instrumentation reflect what is changing over time
+### Alchemist Pyramid
 
-## Canonical Use
+The Alchemist Pyramid provides structured transformation paths and practice
+layers.
 
-The Identity Stack should be used to answer four questions:
+The Identity Stack provides the participant-centered identity architecture those
+paths are acting upon.
 
-- Who am I choosing to be?
-- What rhythms support that identity?
-- Where am I drifting from it?
-- What helps me return?
+The Pyramid answers: how transformation is worked.
+The Identity Stack answers: what in the participant is being organized,
+stabilized, and interpreted.
+
+### Decision Engine
+
+The Decision Engine should remain a separate layer.
+
+The Identity Stack defines authored identity, signals, and movement.
+The Decision Engine later translates that context into action heuristics,
+prioritization, and execution logic.
+
+This folder therefore establishes the identity foundations that future
+decision-engine work can reference without importing decision logic here.
+
+### AXZIO
+
+AXZIO is the interface layer through which users may later receive identity
+readings, prompts, and navigation support.
+
+AXZIO should present and operationalize this framework, but it should not define
+the framework. The engine layer comes first.
+
+## Canonical Files
+
+The following files in this directory are canonical:
+
+- `README.md`
+- `identity-core.md`
+- `four-primitives.md`
+- `identity-engine.md`
+- `identity-signals.md`
+- `identity-reading-model.md`
+
+These documents are the editable source of truth for the Identity Stack inside
+`WORKING_DOCS`.
+
+## `archive_source/`
+
+`archive_source/` is a preserved raw import subtree copied selectively from
+`NOTION_ARCHIVE/` during migration.
+
+It exists for:
+
+- source traceability
+- fidelity checking
+- recovery of details not yet synthesized
+- validation of canonical interpretations
+
+It is reference-only.
+
+Do not treat `archive_source/` as canonical.
+Do not let edits accumulate there.
+Update the canonical documents outside `archive_source/` when the framework is
+clarified.
+
+## Structural Intent
+
+This folder should remain a clear identity layer within the E3 human engine:
+
+- `identity-core.md` defines foundational identity structure
+- `four-primitives.md` defines a practical stabilization and development lens
+  used by AXZIO
+- `identity-engine.md` defines identity movement and integration
+- `identity-signals.md` defines what the system can observe or infer
+- `identity-reading-model.md` defines how the system turns signals into guidance
